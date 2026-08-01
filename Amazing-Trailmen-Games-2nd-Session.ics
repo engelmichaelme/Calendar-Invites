@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trail Life GA-1613//Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:trailmen-showcase-aug24-2026@traillifeconnect.com
+DTSTAMP:20260801T142800Z
+DTSTART;TZID=America/New_York:20260824T183000
+DTEND;TZID=America/New_York:20260824T200000
+SUMMARY:The Incredible Trailmen Showcase Open House
+DESCRIPTION:The Incredible Trailmen Showcase Open House\n\nActivities:\n- Water Rescue Challenge: A team sled-pull relay to demonstrate rescue techniques.\n- Fire Starting: A skill-building station for ignition\, utilizing turkey basting pans and flint/steel.\n- First Aid Station: Demonstrations on tourniquets\, bandaging\, and the creation of improvised stretchers.\n- Showcase Craft: Construction of leather keychains with paracord.\n- Refreshments: Water balloons and s'mores.\n\nNon-member guests allowed. Uniform required. Medical form not required.
+LOCATION:St. Michael the Archangel Catholic Church\, 490 Arnold Mill Rd.\, Woodstock\, GA 30188
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR

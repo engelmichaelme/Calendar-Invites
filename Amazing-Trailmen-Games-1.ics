@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Trail Life GA-1613//Event//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:trailmen-games-aug10-2026@traillifeconnect.com
+DTSTAMP:20260801T142000Z
+DTSTART;TZID=America/New_York:20260810T183000
+DTEND;TZID=America/New_York:20260810T200000
+SUMMARY:The Amazing Trailmen Games (Open House - Join the Adventure)
+DESCRIPTION:The Amazing Trailmen Games (August 10th)\n\nActivities:\n- Pugil Sticks: A competitive sparring challenge.\n- Slingshot Station: A precision target challenge using candy ammo.\n- "Skeeball" Cornhole: Nine boards arranged in three rows\, with points increasing based on throwing distance.\n- Tug-o-War: A collective team-building event for all ages and fathers.\n- Refreshments: Red\, white\, and blue Bomb Pops.\n\nNon-member guests allowed. Uniform required. Medical form not required.
+LOCATION:St. Michael the Archangel Catholic Church\, 490 Arnold Mill Rd.\, Woodstock\, GA 30188
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
